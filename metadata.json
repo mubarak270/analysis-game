@@ -1,0 +1,7 @@
+{
+  "name": "Game Of Master",
+  "description": "F1–F10 Formula, History, AI Summary, Chat, Entry, Note, and Gallery application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
